@@ -1,0 +1,38 @@
+body{
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.box{
+    cursor: pointer;
+    background-color: pink;
+}
+
+td{
+    padding: 20px;
+    text-align: center;
+    border: 2px solid palevioletred;
+    font-weight: bold;
+}
+
+input{
+    text-align: center;
+    transition-delay: 2s;
+}
+
+table{
+    text-align: center;
+    box-shadow: 3px 4px gray
+}
+
+
+
+.main{
+    width: 40%;
+    margin-left: 28%;
+    margin-top: 5%;
+}
+
+.more{
+    font-weight: bolder !important
+}
